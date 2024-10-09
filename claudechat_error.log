@@ -1,0 +1,2487 @@
+/Users/anantkan/.toolbox/tools/brazilcli/2.0.211157.0/bin/brazil_completion.zsh: line 7: autoload: command not found
+/Users/anantkan/.toolbox/tools/brazilcli/2.0.211157.0/bin/brazil_completion.zsh: line 8: autoload: command not found
+/Users/anantkan/.zshrc: line 98: /Users/anantkan/start_sync_cookie.sh: No such file or directory
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 13: bedrockauth: command not found
+/Users/anantkan/.toolbox/tools/brazilcli/2.0.211157.0/bin/brazil_completion.zsh: line 7: autoload: command not found
+/Users/anantkan/.toolbox/tools/brazilcli/2.0.211157.0/bin/brazil_completion.zsh: line 8: autoload: command not found
+/Users/anantkan/.zshrc: line 98: /Users/anantkan/start_sync_cookie.sh: No such file or directory
+2024/10/04 20:07:25 Refreshing aws credentials for bedrock
+2024/10/04 20:07:26 Successfully refreshed aws credentials for bedrock
+/Users/anantkan/.zshrc: line 9: aws: command not found
+/Users/anantkan/.zshrc: line 11: aws: command not found
+/Users/anantkan/.toolbox/tools/brazilcli/2.0.211157.0/bin/brazil_completion.zsh: line 7: autoload: command not found
+/Users/anantkan/.toolbox/tools/brazilcli/2.0.211157.0/bin/brazil_completion.zsh: line 8: autoload: command not found
+/Users/anantkan/.zshrc: line 98: /Users/anantkan/start_sync_cookie.sh: No such file or directory
+2024/10/04 20:37:35 Refreshing aws credentials for bedrock
+2024/10/04 20:37:37 Successfully refreshed aws credentials for bedrock
+/Users/anantkan/.zshrc: line 9: aws: command not found
+/Users/anantkan/.zshrc: line 11: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 17: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 22: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 17: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 22: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 34: kill: (78790) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 34: kill: (6238) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 17: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 22: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-05T06_07_44_883Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 34: kill: (10753) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 17: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 22: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-05T07_07_40_039Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 34: kill: (48310) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 34: kill: (83204) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 17: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 22: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-05T08_07_38_349Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 34: kill: (22353) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 17: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 22: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-05T09_07_36_682Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 34: kill: (46172) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 17: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 22: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-05T10_07_35_332Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 17: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 22: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-05T13_11_14_087Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 34: kill: (8922) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 17: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 22: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-05T14_11_11_173Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 34: kill: (37080) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 17: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 22: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-05T15_11_09_833Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 34: kill: (65966) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 17: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 22: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-05T16_11_07_780Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 34: kill: (92453) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 17: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 22: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-05T17_11_06_727Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 34: kill: (34974) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 17: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 22: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-05T18_11_05_217Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 34: kill: (77865) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 17: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 22: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-05T19_26_17_723Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 34: kill: (24330) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 17: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 22: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-05T20_26_12_486Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 34: kill: (78072) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 17: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 22: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-05T21_26_10_900Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 34: kill: (9877) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 17: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 22: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-05T22_26_09_550Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 34: kill: (40975) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 17: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 22: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-05T23_26_07_209Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 34: kill: (95734) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 17: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 22: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-06T00_26_04_995Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 34: kill: (51945) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 17: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 22: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-06T01_26_04_810Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 34: kill: (7762) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 17: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 22: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-06T02_39_31_210Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 34: kill: (71079) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 17: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 22: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-06T03_39_31_235Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 34: kill: (12144) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 17: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 22: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-06T04_39_29_220Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 34: kill: (35399) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (28507) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (49232) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (68521) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (95815) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (31082) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (66468) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (97262) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (23692) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (49665) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (76540) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (6655) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (62907) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (97809) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (37633) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (72722) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (9082) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (45387) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (138) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (28700) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (55896) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (86669) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (15154) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (49317) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (80496) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (9534) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (37002) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (64803) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (92848) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (20034) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (48402) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (76267) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (4932) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (32917) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (59812) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (87804) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (16729) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (46350) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (70550) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (92998) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 38: kill: (12439) - No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 21: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 26: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-07T22_09_12_002Z-debug.log
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-07T22_39_13_766Z-debug.log
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-07T23_09_15_634Z-debug.log
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-07T23_39_17_993Z-debug.log
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T00_09_20_368Z-debug.log
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: /tmp/claudechat_server.pid: No such file or directory
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T00_39_22_074Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T01_09_24_376Z-debug.log
+cat: /tmp/claudechat_server.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+rm: /tmp/claudechat_server.pid: No such file or directory
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T01_39_26_062Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T02_09_28_005Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T02_39_30_303Z-debug.log
+kill: 84986: No such process
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T03_09_55_454Z-debug.log
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T03_39_57_297Z-debug.log
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T04_09_58_388Z-debug.log
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T04_39_59_490Z-debug.log
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T05_10_02_197Z-debug.log
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T05_40_06_359Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T06_10_08_454Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T06_41_36_459Z-debug.log
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T07_13_01_545Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T07_43_12_542Z-debug.log
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T08_13_14_332Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T09_04_43_399Z-debug.log
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T09_34_45_171Z-debug.log
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T10_04_46_498Z-debug.log
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T10_34_48_073Z-debug.log
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T11_04_49_887Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T13_49_05_213Z-debug.log
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T14_48_50_106Z-debug.log
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T15_38_54_454Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T16_02_03_983Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T16_56_17_651Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T17_27_39_097Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T17_57_40_688Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T18_27_42_251Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T18_57_43_688Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T19_28_20_775Z-debug.log
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T19_58_21_770Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T20_28_22_968Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T20_58_24_170Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T21_28_25_638Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T22_13_06_394Z-debug.log
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T22_56_47_904Z-debug.log
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-08T23_35_52_639Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-09T00_22_59_767Z-debug.log
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-09T00_53_00_660Z-debug.log
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-09T01_23_01_930Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-09T01_53_03_389Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-09T02_23_04_944Z-debug.log
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-09T02_53_05_975Z-debug.log
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-09T03_23_07_612Z-debug.log
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-09T03_53_08_882Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-09T04_23_10_079Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-09T04_53_12_097Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-09T05_23_13_609Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-09T05_53_15_400Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-09T06_23_16_912Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-09T06_53_18_082Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-09T07_23_19_328Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-09T07_53_20_540Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-09T08_23_21_792Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-09T08_53_23_618Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-09T09_23_25_234Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-09T09_53_26_890Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-09T10_24_25_305Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-09T10_55_23_706Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-09T11_25_26_552Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-09T11_55_27_936Z-debug.log
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 20: ada: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 24: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/run_claude_chat.sh: line 25: aws: command not found
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-09T12_34_04_064Z-debug.log

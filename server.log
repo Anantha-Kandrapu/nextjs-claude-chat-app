@@ -1,0 +1,528 @@
+
+> nextjs-claude-chat-app@0.1.0 dev /Users/anantkan/nextjs-claude-chat-app
+> next dev
+
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-05T04_07_47_858Z-debug.log
+
+> nextjs-claude-chat-app@0.1.0 dev
+> next dev
+
+  ▲ Next.js 13.5.7
+  - Local:        http://localhost:3000
+
+ ✓ Ready in 1567ms
+[?25h
+
+> nextjs-claude-chat-app@0.1.0 dev /Users/anantkan/nextjs-claude-chat-app
+> next dev
+
+/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57
+performance.mark("next-start");
+^
+
+ReferenceError: performance is not defined
+    at Object.<anonymous> (/Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/bin/next:57:1)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:75:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! nextjs-claude-chat-app@0.1.0 dev: `next dev`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the nextjs-claude-chat-app@0.1.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/anantkan/.npm/_logs/2024-10-05T05_07_47_320Z-debug.log
+
+> nextjs-claude-chat-app@0.1.0 dev
+> next dev
+
+  ▲ Next.js 13.5.7
+  - Local:        http://localhost:3000
+
+ ✓ Ready in 2.9s
+[?25h
+
+> nextjs-claude-chat-app@0.1.0 dev
+> next dev
+
+  ▲ Next.js 13.5.7
+  - Local:        http://localhost:3000
+
+ ✓ Ready in 1385ms
+ ✓ Compiled /chat/[id]/page in 1817ms (2049 modules)
+ ✓ Compiled in 100ms (1032 modules)
+ ✓ Compiled /api/chat/route in 457ms (1263 modules)
+[?25h
+Server restarted at Sat Oct  5 23:22:36 MST 2024
+Server restarted at Sat Oct  5 23:52:36 MST 2024
+Server restarted at Sun Oct  6 00:31:29 MST 2024
+Server restarted at Sun Oct  6 01:01:29 MST 2024
+Server restarted at Sun Oct  6 01:31:29 MST 2024
+Server restarted at Sun Oct  6 02:01:30 MST 2024
+Server restarted at Sun Oct  6 02:31:30 MST 2024
+Server restarted at Sun Oct  6 03:01:30 MST 2024
+Server restarted at Sun Oct  6 03:31:30 MST 2024
+Server restarted at Sun Oct  6 04:01:30 MST 2024
+Server restarted at Sun Oct  6 04:31:30 MST 2024
+Server restarted at Sun Oct  6 05:01:30 MST 2024
+Server restarted at Sun Oct  6 05:31:31 MST 2024
+Server restarted at Sun Oct  6 06:01:31 MST 2024
+Server restarted at Sun Oct  6 06:31:31 MST 2024
+Server restarted at Sun Oct  6 07:01:31 MST 2024
+Server restarted at Sun Oct  6 07:31:31 MST 2024
+Server restarted at Sun Oct  6 08:01:31 MST 2024
+Server restarted at Sun Oct  6 08:31:31 MST 2024
+Server restarted at Sun Oct  6 09:01:31 MST 2024
+Server restarted at Sun Oct  6 09:31:32 MST 2024
+Server restarted at Sun Oct  6 10:39:55 MST 2024
+Server restarted at Sun Oct  6 10:39:55 MST 2024
+Server restarted at Sun Oct  6 11:09:55 MST 2024
+Server restarted at Sun Oct  6 11:09:55 MST 2024
+Server restarted at Sun Oct  6 11:39:55 MST 2024
+Server restarted at Sun Oct  6 11:39:55 MST 2024
+Server restarted at Sun Oct  6 12:05:14 MST 2024
+
+> nextjs-claude-chat-app@0.1.0 dev
+> next dev
+
+  ▲ Next.js 13.5.7
+  - Local:        http://localhost:3000
+
+ ✓ Ready in 1830ms
+ ✓ Compiled /not-found in 961ms (415 modules)
+ ✓ Compiled in 126ms (219 modules)
+ ✓ Compiled /history/page in 251ms (500 modules)
+ ✓ Compiled /chat/[id]/page in 737ms (2050 modules)
+ ✓ Compiled /api/chat/route in 344ms (1272 modules)
+File not found for conversation 4c39c6e0-334e-46d9-8023-c7ac6856b860
+File not found for conversation 4c39c6e0-334e-46d9-8023-c7ac6856b860
+File not found for conversation 5cf4a095-84b0-449a-9192-ab1e319c0250
+File not found for conversation 5cf4a095-84b0-449a-9192-ab1e319c0250
+[?25h
+Server restarted at Sun Oct  6 12:09:55 MST 2024
+Server restarted at Sun Oct  6 12:09:55 MST 2024
+Server restarted at Sun Oct  6 12:39:55 MST 2024
+Server restarted at Sun Oct  6 12:39:55 MST 2024
+Server restarted at Sun Oct  6 13:17:25 MST 2024
+Server restarted at Sun Oct  6 13:17:25 MST 2024
+Server restarted at Sun Oct  6 13:18:07 MST 2024
+
+> nextjs-claude-chat-app@0.1.0 dev
+> next dev
+
+  ▲ Next.js 13.5.7
+  - Local:        http://localhost:3000
+
+ ✓ Ready in 1960ms
+[?25h
+Server restarted at Sun Oct  6 13:47:25 MST 2024
+Server restarted at Sun Oct  6 13:47:25 MST 2024
+Server restarted at Sun Oct  6 14:26:18 MST 2024
+Server restarted at Sun Oct  6 14:26:18 MST 2024
+Server restarted at Sun Oct  6 14:56:18 MST 2024
+Server restarted at Sun Oct  6 14:56:19 MST 2024
+Server restarted at Sun Oct  6 16:07:17 MST 2024
+Server restarted at Sun Oct  6 16:07:17 MST 2024
+Server restarted at Sun Oct  6 16:37:17 MST 2024
+Server restarted at Sun Oct  6 16:37:18 MST 2024
+Server restarted at Sun Oct  6 17:07:18 MST 2024
+Server restarted at Sun Oct  6 17:07:18 MST 2024
+Server restarted at Sun Oct  6 17:37:18 MST 2024
+Server restarted at Sun Oct  6 17:37:18 MST 2024
+Server restarted at Sun Oct  6 20:07:33 MST 2024
+Server restarted at Sun Oct  6 20:07:33 MST 2024
+Server restarted at Sun Oct  6 20:25:58 MST 2024
+
+> nextjs-claude-chat-app@0.1.0 dev
+> next dev
+
+  ▲ Next.js 13.5.7
+  - Local:        http://localhost:3000
+
+ ✓ Ready in 1966ms
+ ✓ Compiled /history/page in 1398ms (509 modules)
+ ✓ Compiled in 297ms (263 modules)
+ ✓ Compiled /chat/[id]/page in 995ms (2045 modules)
+ ✓ Compiled /api/chat/route in 412ms (1269 modules)
+File not found for conversation fb00b9b8-46bc-420b-b33d-ff475184dd4f
+File not found for conversation fb00b9b8-46bc-420b-b33d-ff475184dd4f
+Error in chat API: ExpiredTokenException: The security token included in the request is expired
+    at throwDefaultError (webpack-internal:///(rsc)/./node_modules/@smithy/smithy-client/dist-cjs/index.js:832:22)
+    at eval (webpack-internal:///(rsc)/./node_modules/@smithy/smithy-client/dist-cjs/index.js:841:9)
+    at de_CommandError (webpack-internal:///(rsc)/./node_modules/@aws-sdk/client-bedrock-runtime/dist-cjs/index.js:1019:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async eval (webpack-internal:///(rsc)/./node_modules/@smithy/middleware-serde/dist-cjs/index.js:42:32)
+    at async eval (webpack-internal:///(rsc)/./node_modules/@smithy/core/dist-es/middleware-http-signing/httpSigningMiddleware.js:28:28)
+    at async eval (webpack-internal:///(rsc)/./node_modules/@smithy/middleware-retry/dist-cjs/index.js:302:54)
+    at async eval (webpack-internal:///(rsc)/./node_modules/@aws-sdk/middleware-logger/dist-cjs/index.js:40:34)
+    at async attemptRequest (webpack-internal:///(rsc)/./src/app/api/chat/route.ts:101:26)
+    at async POST (webpack-internal:///(rsc)/./src/app/api/chat/route.ts:122:16)
+    at async /Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:62499 {
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 403,
+    requestId: '11b2f6af-cda7-4b60-887a-bd1e4afd3cdc',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  }
+}
+Attempting to refresh credentials and retry...
+adacreds command output: 
+Error after refreshing credentials: ExpiredTokenException: The security token included in the request is expired
+    at throwDefaultError (webpack-internal:///(rsc)/./node_modules/@smithy/smithy-client/dist-cjs/index.js:832:22)
+    at eval (webpack-internal:///(rsc)/./node_modules/@smithy/smithy-client/dist-cjs/index.js:841:9)
+    at de_CommandError (webpack-internal:///(rsc)/./node_modules/@aws-sdk/client-bedrock-runtime/dist-cjs/index.js:1019:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async eval (webpack-internal:///(rsc)/./node_modules/@smithy/middleware-serde/dist-cjs/index.js:42:32)
+    at async eval (webpack-internal:///(rsc)/./node_modules/@smithy/core/dist-es/middleware-http-signing/httpSigningMiddleware.js:28:28)
+    at async eval (webpack-internal:///(rsc)/./node_modules/@smithy/middleware-retry/dist-cjs/index.js:302:54)
+    at async eval (webpack-internal:///(rsc)/./node_modules/@aws-sdk/middleware-logger/dist-cjs/index.js:40:34)
+    at async attemptRequest (webpack-internal:///(rsc)/./src/app/api/chat/route.ts:101:26)
+    at async POST (webpack-internal:///(rsc)/./src/app/api/chat/route.ts:128:20)
+    at async /Users/anantkan/nextjs-claude-chat-app/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:62499 {
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 403,
+    requestId: '8a8ca07b-086c-4f8f-85ef-07211f71b7c0',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  }
+}
+[?25h
+Server restarted at Sun Oct  6 20:30:09 MST 2024
+
+> nextjs-claude-chat-app@0.1.0 dev
+> next dev
+
+  ▲ Next.js 13.5.7
+  - Local:        http://localhost:3000
+
+ ✓ Ready in 1917ms
+ ✓ Compiled /chat/[id]/page in 2s (2049 modules)
+ ✓ Compiled in 310ms (1032 modules)
+ ✓ Compiled /api/chat/route in 433ms (1263 modules)
+File not found for conversation fb00b9b8-46bc-420b-b33d-ff475184dd4f
+File not found for conversation fb00b9b8-46bc-420b-b33d-ff475184dd4f
+[?25h
+Server restarted at Sun Oct  6 20:37:33 MST 2024
+Server restarted at Sun Oct  6 20:37:34 MST 2024
+Server restarted at Sun Oct  6 21:58:51 MST 2024
+
+> nextjs-claude-chat-app@0.1.0 dev
+> next dev
+
+  ▲ Next.js 13.5.7
+  - Local:        http://localhost:3000
+
+ ✓ Ready in 2s
+ ✓ Compiled /chat/[id]/page in 2.2s (2049 modules)
+ ✓ Compiled in 286ms (1032 modules)
+ ✓ Compiled /api/chat/route in 417ms (1263 modules)
+[?25h
+Server restarted at Sun Oct  6 22:04:31 MST 2024
+Server restarted at Sun Oct  6 22:04:32 MST 2024
+Server restarted at Sun Oct  6 22:26:58 MST 2024
+
+> nextjs-claude-chat-app@0.1.0 dev
+> next dev
+
+  ▲ Next.js 13.5.7
+  - Local:        http://localhost:3000
+
+ ✓ Ready in 1923ms
+ ✓ Compiled /api/chat/route in 422ms (256 modules)
+[?25h
+Server restarted at Sun Oct  6 22:34:32 MST 2024
+Server restarted at Sun Oct  6 22:34:32 MST 2024
+Server restarted at Sun Oct  6 22:34:54 MST 2024
+
+> nextjs-claude-chat-app@0.1.0 dev
+> next dev
+
+  ▲ Next.js 13.5.7
+  - Local:        http://localhost:3000
+
+ ✓ Ready in 1865ms
+ ✓ Compiled /api/chat/route in 391ms (256 modules)
+[?25h
+Server restarted at Sun Oct  6 23:20:22 MST 2024
+Server restarted at Sun Oct  6 23:20:22 MST 2024
+Server restarted at Sun Oct  6 23:50:22 MST 2024
+Server restarted at Sun Oct  6 23:50:22 MST 2024
+Server restarted at Mon Oct  7 00:20:22 MST 2024
+Server restarted at Mon Oct  7 00:20:22 MST 2024
+Server restarted at Mon Oct  7 00:28:17 MST 2024
+
+> nextjs-claude-chat-app@0.1.0 dev
+> next dev
+
+  ▲ Next.js 13.5.7
+  - Local:        http://localhost:3000
+
+ ✓ Ready in 2.1s
+[?25h
+Server restarted at Mon Oct  7 00:50:22 MST 2024
+Server restarted at Mon Oct  7 00:50:22 MST 2024
+Server restarted at Mon Oct  7 01:20:23 MST 2024
+Server restarted at Mon Oct  7 01:20:24 MST 2024
+Server restarted at Mon Oct  7 01:45:46 MST 2024
+
+> nextjs-claude-chat-app@0.1.0 dev
+> next dev
+
+  ▲ Next.js 13.5.7
+  - Local:        http://localhost:3000
+
+ ✓ Ready in 1901ms
+[?25h
+Server restarted at Mon Oct  7 01:50:23 MST 2024
+Server restarted at Mon Oct  7 01:50:24 MST 2024
+Server restarted at Mon Oct  7 02:20:23 MST 2024
+Server restarted at Mon Oct  7 02:20:24 MST 2024
+Server restarted at Mon Oct  7 02:50:23 MST 2024
+Server restarted at Mon Oct  7 02:50:24 MST 2024
+Server restarted at Mon Oct  7 03:20:23 MST 2024
+Server restarted at Mon Oct  7 03:20:24 MST 2024
+Server restarted at Mon Oct  7 03:50:24 MST 2024
+Server restarted at Mon Oct  7 03:50:24 MST 2024
+Server restarted at Mon Oct  7 04:20:24 MST 2024
+Server restarted at Mon Oct  7 04:20:24 MST 2024
+Server restarted at Mon Oct  7 04:50:24 MST 2024
+Server restarted at Mon Oct  7 04:50:25 MST 2024
+Server restarted at Mon Oct  7 05:20:24 MST 2024
+Server restarted at Mon Oct  7 05:20:25 MST 2024
+Server restarted at Mon Oct  7 05:50:24 MST 2024
+Server restarted at Mon Oct  7 05:50:25 MST 2024
+Server restarted at Mon Oct  7 06:20:24 MST 2024
+Server restarted at Mon Oct  7 06:20:25 MST 2024
+Server restarted at Mon Oct  7 06:50:24 MST 2024
+Server restarted at Mon Oct  7 06:50:25 MST 2024
+Server restarted at Mon Oct  7 07:20:24 MST 2024
+Server restarted at Mon Oct  7 07:20:25 MST 2024
+Server restarted at Mon Oct  7 07:50:25 MST 2024
+Server restarted at Mon Oct  7 07:50:26 MST 2024
+Server restarted at Mon Oct  7 08:20:25 MST 2024
+Server restarted at Mon Oct  7 08:20:26 MST 2024
+Server restarted at Mon Oct  7 09:10:41 MST 2024
+Server restarted at Mon Oct  7 09:10:42 MST 2024
+Server restarted at Mon Oct  7 09:40:41 MST 2024
+Server restarted at Mon Oct  7 09:40:42 MST 2024
+Server restarted at Mon Oct  7 10:10:41 MST 2024
+Server restarted at Mon Oct  7 10:10:42 MST 2024
+Server restarted at Mon Oct  7 10:40:41 MST 2024
+Server restarted at Mon Oct  7 10:40:42 MST 2024
+Server restarted at Mon Oct  7 11:10:41 MST 2024
+Server restarted at Mon Oct  7 11:10:42 MST 2024
+Server restarted at Mon Oct  7 11:40:42 MST 2024
+Server restarted at Mon Oct  7 11:40:42 MST 2024
+Server restarted at Mon Oct  7 12:10:42 MST 2024
+Server restarted at Mon Oct  7 12:10:43 MST 2024
+Server restarted at Mon Oct  7 12:40:42 MST 2024
+Server restarted at Mon Oct  7 12:40:43 MST 2024
+Server restarted at Mon Oct  7 13:10:42 MST 2024
+Server restarted at Mon Oct  7 13:10:43 MST 2024
+Server restarted at Mon Oct  7 13:39:09 MST 2024
+Server restarted at Mon Oct  7 13:39:11 MST 2024
+Server restarted at Mon Oct  7 13:57:24 MST 2024
+
+> nextjs-claude-chat-app@0.1.0 dev
+> next dev
+
+  ▲ Next.js 13.5.7
+  - Local:        http://localhost:3000
+
+ ✓ Ready in 1678ms
+ ✓ Compiled /history/page in 1033ms (509 modules)
+ ✓ Compiled in 210ms (263 modules)
+ ✓ Compiled /chat/[id]/page in 805ms (2045 modules)
+ ✓ Compiled /api/chat/route in 328ms (1269 modules)
+File not found for conversation 502a4ebe-ce07-4d79-b84c-07836be0e126
+File not found for conversation 502a4ebe-ce07-4d79-b84c-07836be0e126
+[?25h
+Server restarted at Mon Oct  7 14:09:09 MST 2024
+Server restarted at Mon Oct  7 14:09:12 MST 2024
+Server restarted at Mon Oct  7 14:12:06 MST 2024
+
+> nextjs-claude-chat-app@0.1.0 dev
+> next dev
+
+  ▲ Next.js 13.5.7
+  - Local:        http://localhost:3000
+
+ ✓ Ready in 1666ms
+ ✓ Compiled /api/chat/route in 306ms (256 modules)
+[?25h
+Server restarted at Mon Oct  7 14:39:09 MST 2024
+Server restarted at Mon Oct  7 14:39:12 MST 2024
+Server restarted at Mon Oct  7 15:09:10 MST 2024
+Server restarted at Mon Oct  7 15:09:12 MST 2024
+Server restarted at Mon Oct  7 15:09:13 MST 2024
+Server restarted at Mon Oct  7 15:39:13 MST 2024
+Server restarted at Mon Oct  7 15:39:15 MST 2024
+Server restarted at Mon Oct  7 16:09:15 MST 2024
+Server restarted at Mon Oct  7 16:09:16 MST 2024
+Server restarted at Mon Oct  7 16:39:18 MST 2024
+Server restarted at Mon Oct  7 16:39:18 MST 2024
+Server restarted at Mon Oct  7 17:09:20 MST 2024
+Server restarted at Mon Oct  7 17:09:20 MST 2024
+Server restarted at Mon Oct  7 17:39:22 MST 2024
+Server restarted at Mon Oct  7 17:39:22 MST 2024
+Server restarted at Mon Oct  7 18:09:22 MST 2024
+Server restarted at Mon Oct  7 18:09:24 MST 2024
+Server restarted at Mon Oct  7 18:09:24 MST 2024
+Server restarted at Mon Oct  7 18:39:26 MST 2024
+Server restarted at Mon Oct  7 18:39:26 MST 2024
+Server restarted at Mon Oct  7 19:09:26 MST 2024
+Server restarted at Mon Oct  7 19:09:28 MST 2024
+Server restarted at Mon Oct  7 19:09:28 MST 2024
+Server restarted at Mon Oct  7 19:39:28 MST 2024
+Server restarted at Mon Oct  7 19:39:30 MST 2024
+Server restarted at Mon Oct  7 19:39:30 MST 2024
+Server restarted at Mon Oct  7 19:47:45 MST 2024
+Server restarted at Mon Oct  7 20:09:35 MST 2024
+Server restarted at Mon Oct  7 20:09:51 MST 2024
+Server restarted at Mon Oct  7 20:09:55 MST 2024
+Server restarted at Mon Oct  7 20:39:53 MST 2024
+Server restarted at Mon Oct  7 20:39:57 MST 2024
+Server restarted at Mon Oct  7 21:09:53 MST 2024
+Server restarted at Mon Oct  7 21:09:55 MST 2024
+Server restarted at Mon Oct  7 21:09:58 MST 2024
+Server restarted at Mon Oct  7 21:39:55 MST 2024
+Server restarted at Mon Oct  7 21:39:57 MST 2024
+Server restarted at Mon Oct  7 21:39:59 MST 2024
+Server restarted at Mon Oct  7 22:08:48 MST 2024
+Server restarted at Mon Oct  7 22:09:58 MST 2024
+Server restarted at Mon Oct  7 22:10:00 MST 2024
+Server restarted at Mon Oct  7 22:10:02 MST 2024
+Server restarted at Mon Oct  7 22:15:10 MST 2024
+Server restarted at Mon Oct  7 22:40:02 MST 2024
+Server restarted at Mon Oct  7 22:40:06 MST 2024
+Server restarted at Mon Oct  7 22:40:06 MST 2024
+Server restarted at Mon Oct  7 23:10:06 MST 2024
+Server restarted at Mon Oct  7 23:10:08 MST 2024
+Server restarted at Mon Oct  7 23:10:08 MST 2024
+Server restarted at Mon Oct  7 23:40:47 MST 2024
+Server restarted at Mon Oct  7 23:41:36 MST 2024
+Server restarted at Mon Oct  7 23:42:00 MST 2024
+Server restarted at Tue Oct  8 00:13:02 MST 2024
+Server restarted at Tue Oct  8 00:13:32 MST 2024
+Server restarted at Tue Oct  8 00:43:04 MST 2024
+Server restarted at Tue Oct  8 00:43:12 MST 2024
+Server restarted at Tue Oct  8 00:43:40 MST 2024
+Server restarted at Tue Oct  8 01:13:14 MST 2024
+Server restarted at Tue Oct  8 01:13:41 MST 2024
+Server restarted at Tue Oct  8 02:04:41 MST 2024
+Server restarted at Tue Oct  8 02:04:43 MST 2024
+Server restarted at Tue Oct  8 02:05:10 MST 2024
+Server restarted at Tue Oct  8 02:34:45 MST 2024
+Server restarted at Tue Oct  8 02:35:11 MST 2024
+Server restarted at Tue Oct  8 03:04:46 MST 2024
+Server restarted at Tue Oct  8 03:05:12 MST 2024
+Server restarted at Tue Oct  8 03:34:48 MST 2024
+Server restarted at Tue Oct  8 03:35:13 MST 2024
+Server restarted at Tue Oct  8 04:04:49 MST 2024
+Server restarted at Tue Oct  8 04:05:16 MST 2024
+Server restarted at Tue Oct  8 06:33:10 MST 2024
+Server restarted at Tue Oct  8 06:48:57 MST 2024
+Server restarted at Tue Oct  8 06:49:05 MST 2024
+Server restarted at Tue Oct  8 06:49:23 MST 2024
+Server restarted at Tue Oct  8 07:48:50 MST 2024
+Server restarted at Tue Oct  8 07:49:13 MST 2024
+Server restarted at Tue Oct  8 08:38:54 MST 2024
+Server restarted at Tue Oct  8 08:39:16 MST 2024
+Server restarted at Tue Oct  8 09:02:04 MST 2024
+Server restarted at Tue Oct  8 09:02:04 MST 2024
+Server restarted at Tue Oct  8 09:23:04 MST 2024
+Server restarted at Tue Oct  8 09:56:16 MST 2024
+Server restarted at Tue Oct  8 09:56:17 MST 2024
+Server restarted at Tue Oct  8 09:56:17 MST 2024
+Server restarted at Tue Oct  8 10:27:37 MST 2024
+Server restarted at Tue Oct  8 10:27:39 MST 2024
+Server restarted at Tue Oct  8 10:27:39 MST 2024
+Server restarted at Tue Oct  8 10:57:39 MST 2024
+Server restarted at Tue Oct  8 10:57:40 MST 2024
+Server restarted at Tue Oct  8 10:57:40 MST 2024
+Server restarted at Tue Oct  8 11:27:41 MST 2024
+Server restarted at Tue Oct  8 11:27:42 MST 2024
+Server restarted at Tue Oct  8 11:27:42 MST 2024
+Server restarted at Tue Oct  8 11:57:42 MST 2024
+Server restarted at Tue Oct  8 11:57:43 MST 2024
+Server restarted at Tue Oct  8 11:57:43 MST 2024
+Server restarted at Tue Oct  8 12:28:19 MST 2024
+Server restarted at Tue Oct  8 12:28:20 MST 2024
+Server restarted at Tue Oct  8 12:28:20 MST 2024
+Server restarted at Tue Oct  8 12:58:21 MST 2024
+Server restarted at Tue Oct  8 12:58:21 MST 2024
+Server restarted at Tue Oct  8 13:28:22 MST 2024
+Server restarted at Tue Oct  8 13:28:22 MST 2024
+Server restarted at Tue Oct  8 13:58:23 MST 2024
+Server restarted at Tue Oct  8 13:58:24 MST 2024
+Server restarted at Tue Oct  8 14:28:24 MST 2024
+Server restarted at Tue Oct  8 14:28:25 MST 2024
+Server restarted at Tue Oct  8 15:13:05 MST 2024
+Server restarted at Tue Oct  8 15:13:06 MST 2024
+Server restarted at Tue Oct  8 15:56:47 MST 2024
+Server restarted at Tue Oct  8 16:35:52 MST 2024
+Server restarted at Tue Oct  8 17:22:58 MST 2024
+Server restarted at Tue Oct  8 17:22:59 MST 2024
+Server restarted at Tue Oct  8 17:53:00 MST 2024
+Server restarted at Tue Oct  8 18:23:01 MST 2024
+Server restarted at Tue Oct  8 18:34:56 MST 2024
+Server restarted at Tue Oct  8 18:53:02 MST 2024
+Server restarted at Tue Oct  8 18:53:03 MST 2024
+Server restarted at Tue Oct  8 19:23:03 MST 2024
+Server restarted at Tue Oct  8 19:23:04 MST 2024
+Server restarted at Tue Oct  8 19:53:05 MST 2024
+Server restarted at Tue Oct  8 20:12:28 MST 2024
+Server restarted at Tue Oct  8 20:23:07 MST 2024
+Server restarted at Tue Oct  8 20:53:08 MST 2024
+Server restarted at Tue Oct  8 21:23:10 MST 2024
+Server restarted at Tue Oct  8 21:41:53 MST 2024
+Server restarted at Tue Oct  8 21:53:12 MST 2024
+Server restarted at Tue Oct  8 22:23:13 MST 2024
+Server restarted at Tue Oct  8 22:47:21 MST 2024
+Server restarted at Tue Oct  8 22:53:15 MST 2024
+Server restarted at Tue Oct  8 23:23:16 MST 2024
+Server restarted at Tue Oct  8 23:53:18 MST 2024
+Server restarted at Wed Oct  9 00:23:19 MST 2024
+Server restarted at Wed Oct  9 00:53:20 MST 2024
+Server restarted at Wed Oct  9 01:23:21 MST 2024
+Server restarted at Wed Oct  9 01:53:23 MST 2024
+Server restarted at Wed Oct  9 02:23:25 MST 2024
+Server restarted at Wed Oct  9 02:53:26 MST 2024
+Server restarted at Wed Oct  9 03:24:25 MST 2024
+Server restarted at Wed Oct  9 03:55:24 MST 2024
+Server restarted at Wed Oct  9 04:25:26 MST 2024
+Server restarted at Wed Oct  9 04:55:27 MST 2024
+Server restarted at Wed Oct  9 05:34:04 MST 2024

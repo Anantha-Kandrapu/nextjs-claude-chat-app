@@ -8,7 +8,7 @@ export default async function HistoryPage() {
   return (
     <div className="container mx-auto p-4">
       <div className="flex justify-between items-center mb-4">
-        <h1 className="text-2xl font-bold">Conversation History</h1>
+        <h1 className="text-xl">Old Gold Convos</h1>
         <NewConversationButton />
       </div>
       {conversations.length > 0 ? (
@@ -16,7 +16,7 @@ export default async function HistoryPage() {
           {conversations.map((conv) => (
             <Link href={`/chat/${conv.id}`} key={conv.id}>
               <div className="border p-4 rounded hover:bg-gray-100 cursor-pointer">
-                <p className="text-sm text-gray-600">{conv.preview}</p>
+                <p className="text-sm text-red-600">{conv.preview.substring(0, 100)}</p>
               </div>
             </Link>
           ))}

@@ -9,6 +9,7 @@ import { v4 as uuidv4 } from 'uuid';
 import { useParams, useRouter } from 'next/navigation';
 import Link from 'next/link';
 import NewConversationButton from './NewConversationButton';
+import VoiceInput from './VoiceInput';
 
 interface MessageContent {
   type: 'text' | 'image';
@@ -175,34 +176,38 @@ const ChatInterfaceClient: React.FC<ChatInterfaceClientProps> = ({ initialConver
     }
     return null;
   };
-
+  const handleSpeechRecognized = (transcript: string) => {
+    handleSendMessage(transcript);
+  };
   return (
-    <div className="flex flex-col h-screen">
-      <div className="p-4 bg-gray-200 flex justify-between items-center">
-        <h1 className="text-xl font-bold">Chat with Claude</h1>
-        <div>
-          <NewConversationButton />
-          <Link href="/history" className="bg-gray-500 text-white px-4 py-2 rounded hover:bg-gray-600 ml-2">
-            History
-          </Link>
+    <div className="flex flex-col h-screen bg-white">
+      <div className="p-4 bg-gray-100 flex items-center space-x-4">
+        <div className="flex-grow">
+          <MessageInput onSendMessage={handleSendMessage} />
         </div>
+        <VoiceInput onSpeechRecognized={handleSpeechRecognized} />
+        <NewConversationButton />
+        <Link href="/history" className="bg-gray-500 text-white px-4 py-2 rounded hover:bg-gray-600">
+          History
+        </Link>
       </div>
-      <div className="flex-1 overflow-y-auto p-4 space-y-4">
+      <div className="flex-1 overflow-y-auto p-4 space-y-4 mb-8">
         {messages.map((message, index) => (
-          <div key={index} className={`flex ${message.role === 'user' ? 'justify-end' : 'justify-start'}`}>
-            <div className={`max-w-[70%] p-3 rounded-lg ${message.role === 'user' ? 'bg-blue-500 text-white' : 'bg-gray-200'}`}>
-              {message.content.map((content, contentIndex) => (
-                <div key={contentIndex}>
-                  {renderContent(content)}
-                </div>
-              ))}
+          <div key={index} className={`flex ${message.role === 'user' ? 'justify-center' : 'justify-center'}`}>
+            <div className={`w-full p-1 ${message.role === 'user' ? 'text-left' : 'text-left'}`}>
+              <div className={`inline-block max-w-[100%] p-3 rounded-lg ${message.role === 'user' ? 'bg-blue-500 text-white' : 'bg-gray-200'}`}>
+                {message.content.map((content, contentIndex) => (
+                  <div key={contentIndex}>
+                    {renderContent(content)}
+                  </div>
+                ))}
+              </div>
             </div>
           </div>
         ))}
         {isLoading && <div className="text-center">Claude is thinking...</div>}
         <div ref={messagesEndRef} />
       </div>
-      <MessageInput onSendMessage={handleSendMessage} />
     </div>
   );
 };
