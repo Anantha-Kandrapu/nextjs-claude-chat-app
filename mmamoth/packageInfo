@@ -1,0 +1,2 @@
+base = {workspace = anantkan_mmamoth; };
+packages = { };
