@@ -1,8 +1,16 @@
-import { BedrockRuntimeClient, InvokeModelCommand } from "@aws-sdk/client-bedrock-runtime";
+import { BedrockRuntimeClient, ConverseStreamCommand, InvokeModelCommand, InvokeModelWithResponseStreamCommand } from "@aws-sdk/client-bedrock-runtime";
 import { loadConversation, saveConversation } from '@/utils/fileUtils';
 import { fromIni } from "@aws-sdk/credential-providers";
 import { NextRequest, NextResponse } from 'next/server';
 import { exec } from 'child_process';
+import { log } from "console";
+interface Message {
+    role: 'user' | 'assistant' | 'system';
+    content: Array<{
+        type: string;
+        text: string;
+    }>;
+}
 
 function runAdacredsCommand() {
     return new Promise((resolve, reject) => {
@@ -50,7 +58,7 @@ export async function GET(request: NextRequest) {
         console.log("Attempting to refresh credentials and retry...");
         try {
             await runAdacredsCommand();
-            client = refreshCredentials();
+            const client = refreshCredentials();
             return await attemptLoad();
         } catch (retryError) {
             console.error("Error after refreshing credentials:", retryError);
@@ -60,49 +68,64 @@ export async function GET(request: NextRequest) {
 }
 
 export async function POST(req: Request) {
-    const clonedReq = req.clone();
-    async function attemptRequest(request: Request) {
-        const client = getClient();
-        const { messages, conversationId } = await request.json();
+    const client = getClient();
+    const { messages, conversationId } = await req.json();
 
-        const requestInput = {
-            modelId: "anthropic.claude-3-5-sonnet-20241022-v2:0",
-            contentType: "application/json",
-            accept: "application/json",
-            body: JSON.stringify({
-                anthropic_version: "bedrock-2023-05-31",
-                max_tokens: 4096,
-                temperature : 0.3,
-                top_p: 0.999,
-                messages: messages,
-            }),
-        };
-
-        const command = new InvokeModelCommand(requestInput);
-        const response = await client.send(command);
-        const responseBody = JSON.parse(new TextDecoder().decode(response.body));
-
-        const assistantMessage = { role: 'assistant', content: [{ type: 'text', text: responseBody.content[0].text }] };
-        const updatedMessages = [...messages, assistantMessage];
-
-        await saveConversation(conversationId, updatedMessages);
-
-        return NextResponse.json({ response: responseBody.content[0].text });
-    }
-    try {
-        return await attemptRequest(req);
-    } catch (error) {
-        console.error("Error in chat API:", error);
-        console.log("Attempting to refresh credentials and retry...");
-        try {
-            await runAdacredsCommand();
-            return await attemptRequest(clonedReq);  // Use the cloned request for retry
-        } catch (retryError) {
-            console.error("Error after refreshing credentials:", retryError);
-            return NextResponse.json({ error: "An error occurred while processing your request, even after refreshing credentials." }, { status: 500 });
+    const input = {
+        modelId: "anthropic.claude-3-sonnet-20240229-v1:0",
+        messages: messages.map((msg: { role: any; content: any[]; }) => ({
+            role: msg.role,
+            content: msg.content.map(content => ({
+                text: content.text
+            }))
+        })),
+        inferenceConfig: {
+            maxTokens: 4096,
+            temperature: 0.3,
+            topP: 0.999
         }
+    };
+
+    try {
+        const command = new ConverseStreamCommand(input);
+        const response = await client.send(command);
+
+        if (!response.stream) {
+            throw new Error('No stream available in response');
+        }
+
+        const readableStream = new ReadableStream({
+            async start(controller) {
+                try {
+                    for await (const chunk of response.stream!) {
+                        if (chunk.contentBlockDelta?.delta?.text) {
+                            controller.enqueue(new TextEncoder().encode(chunk.contentBlockDelta.delta.text));
+                        }
+                    }
+                    controller.close();
+                } catch (error) {
+                    console.error('Stream processing error:', error);
+                    controller.error(error);
+                }
+            }
+        });
+
+        return new Response(readableStream, {
+            headers: {
+                'Content-Type': 'text/event-stream',
+                'Cache-Control': 'no-cache',
+                'Connection': 'keep-alive',
+            },
+        });
+    } catch (error) {
+        console.error('Streaming error:', error);
+        return new Response(JSON.stringify({ error: 'Streaming failed' }), {
+            status: 500,
+            headers: { 'Content-Type': 'application/json' }
+        });
     }
 }
+
 
 function getClient() {
     return new BedrockRuntimeClient({

@@ -32,10 +32,18 @@ interface ChatInterfaceClientProps {
 const ChatInterfaceClient: React.FC<ChatInterfaceClientProps> = ({ initialConversationId }) => {
   const [messages, setMessages] = useState<Message[]>([]);
   const [isLoading, setIsLoading] = useState(false);
+  const [isStreaming, setIsStreaming] = useState(false);
+  const abortControllerRef = useRef<AbortController | null>(null);
   const [conversationId, setConversationId] = useState<string>(initialConversationId || '');
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const router = useRouter();
   const params = useParams();
+
+  useEffect(() => {
+    if (isStreaming) {
+      scrollToBottom();
+    }
+  }, [messages, isStreaming]);
 
   useEffect(() => {
     const id = params?.id as string;
@@ -46,7 +54,13 @@ const ChatInterfaceClient: React.FC<ChatInterfaceClientProps> = ({ initialConver
       createNewConversation();
     }
   }, [params?.id]);
-
+  const cancelStream = () => {
+    if (abortControllerRef.current) {
+      abortControllerRef.current.abort();
+      setIsStreaming(false);
+      setIsLoading(false);
+    }
+  };
   const loadConversation = async (id: string) => {
     try {
       const response = await fetch(`/api/chat?conversationId=${id}`);
@@ -77,6 +91,9 @@ const ChatInterfaceClient: React.FC<ChatInterfaceClientProps> = ({ initialConver
   const handleSendMessage = async (text: string, image?: File) => {
     if (!text.trim() && !image) return;
 
+    abortControllerRef.current = new AbortController();
+
+    // Prepare message content
     let newMessageContent: MessageContent[] = [];
     if (image) {
       const imageBase64 = await convertToBase64(image);
@@ -91,17 +108,25 @@ const ChatInterfaceClient: React.FC<ChatInterfaceClientProps> = ({ initialConver
     }
     newMessageContent.push({ type: 'text', text });
 
+    // Create new user message
     const newMessage: Message = {
       role: 'user',
       content: newMessageContent
     };
 
-    // Combine successive user messages before updating state
+    // Update messages with user's message
     const updatedMessages = combineSuccessiveUserMessages([...messages, newMessage]);
     setMessages(updatedMessages);
-
     setIsLoading(true);
+    setIsStreaming(true);
+
     try {
+      // Add empty assistant message for streaming
+      setMessages(prev => [...prev, {
+        role: 'assistant',
+        content: [{ type: 'text', text: '' }]
+      }]);
+
       const response = await fetch('/api/chat', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -109,21 +134,52 @@ const ChatInterfaceClient: React.FC<ChatInterfaceClientProps> = ({ initialConver
           messages: updatedMessages,
           conversationId
         }),
+        signal: abortControllerRef.current.signal
       });
+
       if (!response.ok) throw new Error('Failed to get response');
-      const data = await response.json();
-      setMessages(prev => [...prev, {
-        role: 'assistant',
-        content: [{ type: 'text', text: data.response }]
-      }]);
-    } catch (error) {
-      console.error('Error sending message:', error);
-      setMessages(prev => [...prev, {
-        role: 'assistant',
-        content: [{ type: 'text', text: 'Sorry, an error occurred. Please try again.' }]
-      }]);
+
+      const reader = response.body?.getReader();
+      if (!reader) throw new Error('No reader available');
+
+      const decoder = new TextDecoder();
+      const assistantMessageIndex = updatedMessages.length;
+      let accumulatedText = '';
+
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) break;
+
+        const chunk = decoder.decode(value);
+        accumulatedText += chunk;
+
+        setMessages(prev => {
+          const newMessages = [...prev];
+          if (newMessages[assistantMessageIndex]?.role === 'assistant') {
+            newMessages[assistantMessageIndex].content[0] = {
+              type: 'text',
+              text: accumulatedText
+            };
+          }
+          return newMessages;
+        });
+      }
+
+    } catch (error: any) {
+      console.error('Error:', error);
+      if (error.name !== 'AbortError') {
+        setMessages(prev => [...prev, {
+          role: 'assistant',
+          content: [{
+            type: 'text',
+            text: 'Sorry, an error occurred. Please try again.'
+          }]
+        }]);
+      }
     } finally {
+      setIsStreaming(false);
       setIsLoading(false);
+      abortControllerRef.current = null;
     }
   };
 
@@ -158,7 +214,6 @@ const ChatInterfaceClient: React.FC<ChatInterfaceClientProps> = ({ initialConver
             code({ node, className, children, ...props }) {
               const match = /language-(\w+)/.exec(className || '');
               const codeText = String(children).replace(/\n$/, '');
-
               return match ? (
                 <div className="my-2 relative group">
                   <div className="absolute right-2 top-2 opacity-0 group-hover:opacity-100 transition-opacity">
@@ -169,17 +224,24 @@ const ChatInterfaceClient: React.FC<ChatInterfaceClientProps> = ({ initialConver
                     PreTag="div"
                     {...props}
                     style={tomorrow}
-                    className="rounded-lg !bg-gray-100 p-3"
+                    className="rounded-lg !bg-gray-800 p-4 text-base"
+                    customStyle={{
+                      backgroundColor: '#1a1a1a',
+                      margin: 0,
+                      fontSize: '14px',
+                      lineHeight: '1.5'
+                    }}
                   >
                     {codeText}
                   </SyntaxHighlighter>
                 </div>
               ) : (
-                <code className="bg-gray-100 text-gray-900 rounded px-1.5 py-0.5" {...props}>
+                <code className="bg-gray-800 text-gray-100 rounded px-2 py-1" {...props}>
                   {children}
                 </code>
               );
             },
+
             p: ({ children }) => (
               <p className="mb-3 leading-7 text-gray-900">{children}</p>
             ),
@@ -193,21 +255,21 @@ const ChatInterfaceClient: React.FC<ChatInterfaceClientProps> = ({ initialConver
               <li className="mb-0.5 text-gray-900">{children}</li>
             ),
             h1: ({ children }) => (
-              <h1 className="text-xl font-bold mb-3 text-gray-900">{children}</h1>
+              <h1 className="text-2xl font-bold mb-3 text-gray-900">{children}</h1>
             ),
             h2: ({ children }) => (
-              <h2 className="text-lg font-bold mb-2 text-gray-900">{children}</h2>
+              <h2 className="text-xl font-bold mb-2 text-gray-900">{children}</h2>
             ),
             h3: ({ children }) => (
-              <h3 className="text-base font-bold mb-2 text-gray-900">{children}</h3>
+              <h3 className="text-lg font-bold mb-2 text-gray-900">{children}</h3>
             ),
             a: ({ children, href }) => (
-              <a href={href} className="text-gray-700 hover:text-gray-900 underline">
+              <a href={href} className="text-blue-600 hover:text-blue-800 underline">
                 {children}
               </a>
             ),
             blockquote: ({ children }) => (
-              <blockquote className="border-l-4 border-gray-200 pl-4 italic my-4 text-gray-700">
+              <blockquote className="border-l-4 border-gray-300 pl-4 italic my-4 text-gray-800">
                 {children}
               </blockquote>
             ),
@@ -310,6 +372,21 @@ const ChatInterfaceClient: React.FC<ChatInterfaceClientProps> = ({ initialConver
               </div>
             );
           })}
+          {isStreaming && (
+            <div className="flex justify-center p-2">
+              <button
+                onClick={cancelStream}
+                className="px-4 py-2 bg-red-500 text-white rounded hover:bg-red-600 transition-colors"
+              >
+                Stop Generating
+              </button>
+            </div>
+          )}
+          {isLoading && !isStreaming && (
+            <div className="flex justify-center p-2">
+              <span className="text-gray-500 text-sm">Processing...</span>
+            </div>
+          )}
           {isLoading && (
             <div className="flex justify-center p-2">
               <span className="text-gray-500 text-sm">Processing...</span>
