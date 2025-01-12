@@ -9,24 +9,33 @@ export NVM_DIR="$HOME/.nvm"
 APP_DIR="/Users/anantkan/nextjs-claude-chat-app"
 
 bedrock_auth() {
-    local acc_ids=(135601577239 749350688943 264195743615 181236673747)
+    local acc_ids=(135601577239 749350688943 264195743615 181236673747 615299774946)
     local num_accounts=${#acc_ids[@]}
     local timestamp=$(date +%s)
     
-    # Select first random account
+    # Select four random accounts
     local index1=$((timestamp % num_accounts))
-    local acc_id1="${acc_ids[index1]}"
-    
-    # Select second random account
     local index2=$(((timestamp + 1) % num_accounts))
+    local index3=$(((timestamp + 2) % num_accounts))
+    local index4=$(((timestamp + 3) % num_accounts))
+    
+    local acc_id1="${acc_ids[index1]}"
     local acc_id2="${acc_ids[index2]}"
-
+    local acc_id3="${acc_ids[index3]}"
+    local acc_id4="${acc_ids[index4]}"
+    
     echo "Authenticating for account: $acc_id1 with profile: bedrock"
     /Users/anantkan/.toolbox/bin/ada credentials update --once --account=$acc_id1 --provider=conduit --partition=aws --role=IibsAdminAccess-DO-NOT-DELETE --profile=bedrock
-
+    
     echo "Authenticating for account: $acc_id2 with profile: bedrockvsc"
     /Users/anantkan/.toolbox/bin/ada credentials update --once --account=$acc_id2 --provider=conduit --partition=aws --role=IibsAdminAccess-DO-NOT-DELETE --profile=bedrockvsc
-
+    
+    echo "Authenticating for account: $acc_id3 with profile: pranx"
+    /Users/anantkan/.toolbox/bin/ada credentials update --once --account=$acc_id3 --provider=conduit --partition=aws --role=IibsAdminAccess-DO-NOT-DELETE --profile=pranx
+    
+    echo "Authenticating for account: $acc_id4 with profile: prany"
+    /Users/anantkan/.toolbox/bin/ada credentials update --once --account=$acc_id4 --provider=conduit --partition=aws --role=IibsAdminAccess-DO-NOT-DELETE --profile=prany
+    
     unset AWS_ACCESS_KEY_ID
     unset AWS_SECRET_ACCESS_KEY
     unset AWS_SESSION_TOKEN
